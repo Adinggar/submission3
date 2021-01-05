@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="name">Inggar</string>
+    <string name="username">inggar123</string>
+    <string name="company">Inggar Company</string>
+    <string name="location">Yogyakarta, Indonesia</string>
+    <string name="SettingLanguage">Bahasa</string>
+    <string name="search">Search</string>
+    <string name="search_hint">cari username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number">12345</string>
+    <string name="repository">Repository</string>
+    <string name="Following">Mengikuti</string>
+    <string name="Followers">Pengikut</string>
+</resources>
